@@ -1,1 +1,1 @@
-# img-manipulation
+# image-manipulation
